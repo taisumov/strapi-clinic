@@ -15,12 +15,6 @@
     "better-sqlite3": "8.0.1",
     "strapi-plugin-populate-deep": "^2.0.0",
   },
-  "devDependencies": {
-
-  },
-  "browser": {
-    "domain": false
-  },
   "author": {
     "name": "A Strapi developer"
   },
